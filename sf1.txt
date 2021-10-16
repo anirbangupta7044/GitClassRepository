@@ -1,1 +1,2 @@
 Created a sample file for the lab sessions.
+Adding another line to this file(following the class).
